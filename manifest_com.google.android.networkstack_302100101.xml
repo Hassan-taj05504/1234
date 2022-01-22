@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest versionCode="302100101" package="com.google.android.networkstack" split="config.xxhdpi">
+  <application hasCode="false" extractNativeLibs="false">
+    <meta-data name="com.android.vending.derived.apk.id" value="2"/>
+  </application>
+</manifest>
